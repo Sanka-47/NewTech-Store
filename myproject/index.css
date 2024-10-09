@@ -1,0 +1,34 @@
+.body{
+    background-image: url("resources/wp5711023-minimal-desktop-4k-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+.logo{
+    background-image:url("resources/input-onlinepngtools.png") ;
+    height: 20vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+.text-1{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+}
+
+.himg{
+    background-image: url("resources\logo_transparent.png");
+    height: 18vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
