@@ -47,7 +47,7 @@ if(isset($_SESSION["u"])){
         $uaddress = $address;
         $city = $district_data["city_name"];
 
-        $merchant_id = "1224091";
+        $merchant_id = "1111111";
         $merchant_secret = "*************";
         $currency = "LKR";
 
