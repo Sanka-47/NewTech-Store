@@ -30,12 +30,12 @@ if(isset($_POST["email"]) && isset($_POST["name"])){
         $mail->IsSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'sankakonara69@gmail.com';
-        $mail->Password = 'ggzelklnymnptghl';
+        $mail->Username = 'ssssss@gmail.com';
+        $mail->Password = '*********';
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
-        $mail->setFrom('sankakonara69@gmail.com', 'Verify User');
-        $mail->addReplyTo('sankakonara69@gmail.com', 'Verify User');
+        $mail->setFrom('sssssss', 'Verify User');
+        $mail->addReplyTo('ssssssss', 'Verify User');
         $mail->addAddress($umail);
         $mail->isHTML(true);
         $mail->Subject = 'Add category verification code';
