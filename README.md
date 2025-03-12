@@ -10,6 +10,16 @@
 ![b0ee654c-87ca-4318-8c24-b1fe41774a0f](https://github.com/user-attachments/assets/2a4baaae-fb2d-4622-8f05-a6f7b078a9dd)
 
 
+## Technologies Used
+-HTML 
+-CSS 
+-PHP 
+-JavaScript
+-MySQL Database
+
+## Fetures 
+-User Registration 
+
 
 
 
