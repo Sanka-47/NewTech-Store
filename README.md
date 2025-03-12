@@ -52,7 +52,7 @@
 ![image](https://github.com/user-attachments/assets/5087e566-6369-4a7f-ae74-9af820f008ac)
 
 
-7. Advanced search - 
+7.Advanced search - 
 
 ![image](https://github.com/user-attachments/assets/4330131b-cdf1-4c02-9143-d711249bf97d)
 ![image](https://github.com/user-attachments/assets/de1ceb27-4de0-468c-827c-eb4e49e74a6b)
@@ -86,12 +86,12 @@
 ![image](https://github.com/user-attachments/assets/7db3e683-b82d-4b63-b373-6beede73d2d4)
 
 
-12. Add product -
+12.Add product -
 
 ![image](https://github.com/user-attachments/assets/001186e5-6c7e-49d3-858f-095998ce09fc)
 
 
-13. Update product -
+13.Update product -
 
 ![image](https://github.com/user-attachments/assets/4ea1b714-8c94-4b4d-a6df-248607a28d81)
 
@@ -172,7 +172,7 @@
 
 
 
-25. View Admin Message -
+25.View Admin Message -
 
 
 ![image](https://github.com/user-attachments/assets/bee67fa7-b834-4312-b190-4ee5d0d37c0a)
