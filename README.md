@@ -3,7 +3,7 @@
 #Description 
 
 -A fully functional e-commerce website that sells electronic 
-
+devices !
 ## Technologies Used
 -HTML 
 -CSS 
