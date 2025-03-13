@@ -2,7 +2,7 @@
 
 #Description 
 
--A fully functional e-commerce website !
+-A fully functional e-commerce website that
 
 ## Technologies Used
 -HTML 
