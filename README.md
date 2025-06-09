@@ -1,6 +1,6 @@
 # Full-Stack E-Commerce Web Application 
 
-#Description sdffdsdf  sdfsd
+#Description sdffdsdf  sd
 
 -A fully functional e-commerce website that sells electronic 
 devices !
